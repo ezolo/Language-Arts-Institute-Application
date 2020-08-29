@@ -16,8 +16,8 @@
 > ![](https://i.imgur.com/fKNoiKQ.png)
 
 ### 2️⃣ Saving Results ###
->When the user is completely finished filling out the form, they will be able to then click the save button at the bottom of the main screen which will bring up a confirmation message with their details.**Remember to select at least one class or you will get an error message when trying to save the program**.
-> ![](https://i.imgur.com/KR4sjaq.png)
+> When the user is completely finished filling out the form, they will be able to then click the save button at the bottom of the main screen which will bring up a confirmation message with their details.**Remember to select at least one class or you will get an error message when trying to save the program**.
+
 
 
 ### 3️⃣ Clearing a Form ###
