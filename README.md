@@ -12,16 +12,15 @@
 
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Main Screen ###
-> First users will be brought to the opening screen where they will fill out all of the information mentioned above. **Remember to select your classes or you will get an error message**.
+> First users will be brought to the opening screen where they will fill out all of the information mentioned above. After all of the information is correctly entered, the program will automatically display the toal price for classes chose
 > ![](https://i.imgur.com/fKNoiKQ.png)
-> 
+
+### 2️⃣ Saving Results ###
+>When the user is completely finished filling out the form, they will be able to then click the save button at the bottom of the main screen which will bring up a confirmation message with their details. n.  **Remember to select at least one class or you will get an error message when trying to save the program**.
+>![](https://i.imgur.com/KR4sjaq.png)
 > Here is an example of an error message produced by the program when no classes are selected:
 > 
 > ![](https://i.imgur.com/3JKZ35B.png)
-
-### 2️⃣ Saving Results ###
->When the user is completely finished filling out the form, they will be able to then click the save button at the bottom of the main screen which will bring up a confirmation message with their details.
->![](https://i.imgur.com/KR4sjaq.png)
 
 ### 3️⃣ Clearing a Form ###
 > If the user notices an issue with their entered information and/or if the user wants to start over their form, they will be able to clear their form using the clear button at the bottom of the main screen. 
