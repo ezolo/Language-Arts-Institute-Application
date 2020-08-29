@@ -1,2 +1,35 @@
-# Language-Arts-Institute-Form
-The following application is a registration form for the Language Arts Institute (LAI). Users will be able to enter term information (year/term), student information (ID/name/email/residency), course order information (which courses student will be taking), and payment information (card information). When the user finishes their form, they will be able to see the final price of the classes they have chosen and then save, clear, and/or exit from there.
+# Language Arts Institute Form
+
+###### tags: `C#` `VS 16.7`
+
+
+## 📝 What is the LAI Form?
+> The following application is a registration form for the Language Arts Institute (LAI). Users will be able to enter: 
+-  Term information 
+-  Student information 
+-  Course order information 
+-  Payment information
+
+## 👩‍🏫 Application Walk Through
+### 1️⃣ Main Screen ###
+> First users will be brought to the opening screen where they will fill out all of the information mentioned above. **Remember to select your classes or you will get an error message**
+> ![](https://i.imgur.com/fKNoiKQ.png)
+> 
+> Here is an example of an error message produced by the program when no classes are selected:
+> 
+> ![](https://i.imgur.com/3JKZ35B.png)
+
+### 2️⃣ Saving Results ###
+>When the user is completely finished filling out the form, they will be able to then click the save button at the bottom of the main screen which will bring up a confirmation message with their details.
+>![](https://i.imgur.com/KR4sjaq.png)
+
+### 3️⃣ Clearing a Form ###
+> If the user notices an issue with their entered information and/or if the user wants to start over their form, they will be able to clear their form using the clear button at the bottom of the main screen. 
+![](https://i.imgur.com/MZxx3NJ.png)
+
+### 4️⃣ Exiting a Form ###
+> If the user has finished the form and/or is ready to leave the program, they will be able to click the exit button at the bottom of the main screen which will bring up a message to make sure the user is ready to exit. 
+![](https://i.imgur.com/WfFRLxJ.png)
+
+## 😃 Thank you for viewing my application ##
+> I hope you enjoyed the little walk through of the LAI Form. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
