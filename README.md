@@ -12,7 +12,7 @@
 
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Main Screen ###
-> First users will be brought to the opening screen where they will fill out all of the information mentioned above. **Remember to select your classes or you will get an error message**
+> First users will be brought to the opening screen where they will fill out all of the information mentioned above. **Remember to select your classes or you will get an error message**.
 > ![](https://i.imgur.com/fKNoiKQ.png)
 > 
 > Here is an example of an error message produced by the program when no classes are selected:
