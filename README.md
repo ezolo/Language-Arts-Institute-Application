@@ -12,7 +12,7 @@
 
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Main Screen ###
-> First users will be brought to the opening screen where they will fill out all of the information mentioned above. After all of the information is correctly entered, the program will automatically display the toal price for classes chose
+> First users will be brought to the opening screen where they will fill out all of the information mentioned above. After all of the information is correctly entered, the program will automatically display the toal price for classes chosen.
 > ![](https://i.imgur.com/fKNoiKQ.png)
 
 ### 2️⃣ Saving Results ###
